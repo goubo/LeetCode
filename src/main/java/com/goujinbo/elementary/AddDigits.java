@@ -13,7 +13,7 @@ public class AddDigits {
 
     public static void main(String[] args) {
         int num = 193;
-        System.out.println(1 + (num - 1) % 9);
+        System.out.println(1 + (num - 1) % 9);//大神的作品  膜拜orz
         System.out.println(addDigits(num));
     }
 }
